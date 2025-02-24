@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey!, I’m Salman Ansari<br>🔥 I’m currently working on PostWizard<br>👯 I’m looking to collaborate on Full Stack Projects<br>🔭 Portfolio here https://salmanansari.netlify.app<br>💬 Ask me about JavaScript, TypeScript, React, Next, Frontend & Backend Development
+👋 Hey!, I’m Salman Ansari<br>🔥 I’m currently working on Propayly<br>👯 I’m looking to collaborate on Full Stack Projects<br>🔭 Portfolio here https://salmanansari.netlify.app<br>💬 Ask me about JavaScript, TypeScript, React, Next, Frontend & Backend Development
 
 
 ## 🌐 Socials:

@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey!, I’m Salman Ansari<br>🔥 I’m currently working on BreadCrumbs.ai  <br>👯 I’m looking to collaborate on Full Stack Projects<br>🔭 Portfolio [here](https://salmanansari.netlify.app)<br>💬 Ask me about JavaScript, TypeScript, React, Next, Frontend & Backend Development
+👋 Hey!, I’m Salman Ansari<br>🔥 I’m currently working on BreadCrumbs.ai  <br>🔭 Portfolio [here](https://salmanansari.netlify.app)<br>💬 Ask me about JavaScript, TypeScript, React, Next, Frontend & Backend Development
 
 
 ## 🌐 Socials:
